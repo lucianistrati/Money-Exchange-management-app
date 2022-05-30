@@ -1,8 +1,8 @@
-# Money-Exchange
+# Money-Exchange management app
 This repository contains a project for a Money Exchange company using Java programming language.
 This is the list of classes we have:
-1.Main - Service Class
-2.OfficeExchange
+- 1.Main - Service Class
+- 2.OfficeExchange
 3.Client
 4.NormalClient
 5.PremiumClient
