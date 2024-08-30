@@ -32,5 +32,3 @@ This is the list of actions this application may trigger:
 - 17.Make a day pass
 - 18.Exit from the program
 Besides the classes, there is also one txt file where we add all the informations about the clients and the transactions when the applications ends its running.
-
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
